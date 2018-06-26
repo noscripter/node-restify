@@ -67,7 +67,7 @@
         "qs": "^0.6.6",
         "semver": "^2.3.0",
         "spdy": "^1.26.5",
-        "tunnel-agent": "^0.4.0",
+        "tunnel-agent": "^0.6.0",
         "verror": "^1.4.0"
     },
     "optionalDependencies": {
